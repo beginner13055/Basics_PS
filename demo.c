@@ -5,6 +5,9 @@ void a(){
 void b(){
     print("World ");
 }
+void c(){
+    print("To GitHub");
+}
 void main(){
     a();
     b();
